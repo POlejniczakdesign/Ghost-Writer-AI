@@ -1,0 +1,7 @@
+{
+  "name": "Ghost-Writer AI v1.0",
+  "description": "Master-class professional author, ghost-writer, and niche publishing strategist for Amazon KDP and Audible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
